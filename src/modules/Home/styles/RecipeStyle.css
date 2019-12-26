@@ -1,0 +1,68 @@
+.recipe-title {
+    /* margin-top: 40px; */
+    color: rgb(19, 19, 19);
+}
+
+.recipe-title div:nth-child(1) {
+    font-size: 48px;
+}
+
+.recipe-title div:nth-child(2) {
+    font-size: 72px;
+    line-height: 3rem;
+}
+
+.recipe-right-content {
+    float: right;
+    font-size: 36px;
+}
+
+.row.recipe {
+    clear: both;
+    margin-top: 15px;
+    position: relative;
+    top:15px;
+}
+
+.forward-pic {
+    position: absolute;
+    left: 19%;
+    top: 42%;
+    z-index: 1;
+}
+.chef-stamp {
+    position: absolute;
+    left: 14%;
+    top: -11%;
+    z-index: 1;
+}
+.muted-text {
+    color:grey;
+    margin-left:10px;
+}
+.recipe-name {
+    font-size: 22px;
+    margin:10px;
+}
+.recipe-desc {
+    margin:10px
+}
+.recipeCard {
+    color:#232323;
+    width:95%
+}
+.recipe-serving-box {
+    height: 50px;
+    width: 50px;
+    color: whitesmoke;
+    text-align: center;
+    background-color: rgba(0,0,0, 0.4);
+    position: absolute;
+    top: 0;
+    padding: 18px;
+    font-size: 20px;
+}
+.recipe-imgStyle {
+    height: 258px;
+    width: 261px;
+}

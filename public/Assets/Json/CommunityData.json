@@ -1,0 +1,29 @@
+[
+    {
+        "UserID":"1",
+        "UserName":"@love_food",
+        "UserMsg":"Waffle sticks in Copenhagen!  Milk chocolate with sprinkles, dark chocolate with coconut and milk chocolate with peanuts! [ : @foodwithmichel] #lovefood ",
+        "MsgDesc":"Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit ",
+        "Likes":"99.7k",
+        "Comments":"789",
+        "ItemImage":"food1"
+    },
+    {
+        "UserID":"2",
+        "UserName":"@buzzfeedfood",
+        "UserMsg":"It’s taco Tuesday! These tacos from @jesseszewczyk have no added sugars and are SO good . Find the recipe from the link in our bio! : @taylormillerphoto ",
+        "MsgDesc":"LOREM IPSUM DOLOR SIT AMET ERNUT TEMPARTERO SERTU PER NABORE EN TORNA ENTALT",
+        "Likes":"14.7k",
+        "Comments":"68",
+        "ItemImage":"food1"
+    },
+    {
+        "UserID":"3",
+        "UserName":"@buzzfeedfood",
+        "UserMsg":"Getting into long weekend mode like  #pancitpalabok ( @jeepneynyc) ",
+        "MsgDesc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Duis aute irure.",
+        "Likes":"18.2k",
+        "Comments":"152",
+        "ItemImage":"food1"
+    }
+]

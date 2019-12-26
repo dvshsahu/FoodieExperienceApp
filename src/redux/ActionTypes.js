@@ -1,0 +1,5 @@
+export const GET_MENU_LIST = "GET_MENU_LIST";
+export const GET_MENU_ITEM = "GET_MENU_ITEM";
+export const GET_RECIPE_LIST = "GET_RECIPE_LIST";
+export const GET_RECIPE_ITEM = "GET_RECIPE_ITEM";
+export const GET_USER_POSTS_LIST = "GET_USER_POSTS_LIST";

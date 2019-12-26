@@ -1,0 +1,46 @@
+[
+    {
+        "RecipeId":"1",
+        "ServingCapacity":"4",
+        "RecipeName":"CHARRED BROCCOLI & CHEAT’S VEGGIE ROMESCO TOAST",
+        "RecipeDesc":"Make a speedy version of romesco sauce with its famous almond and red pepper flavours. Serve on sourdough and add broccoli for a colourful, veget",
+        "UserImage":"sandwich",
+        "Ingredients":"Make a speedy version of romesco sauce with its famous almond and red pepper flavours. Serve on sourdough and add broccoli for a colourful, veget",
+        "UserFullName":"@Love_Foodie",
+        "RecipeDifficultyLevel":"Difficulty",
+        "IsChefChoice":"YES"
+    },
+    {
+        "RecipeId":"2",
+        "ServingCapacity":"2",
+        "RecipeName":"PINEAPPLE FRUIT SALAD WITH FRESH CREAM ",
+        "RecipeDesc":"The pineapple juice is the star of the dressing and what gives it such a refreshing and sweet taste. Pineapple juice is kno",
+        "UserImage":"pineapple",
+        "Ingredients":"The pineapple juice is the star of the dressing and what gives it such a refreshing and sweet taste. Pineapple juice is kno",
+        "UserFullName":"@Love_Foodie",
+        "RecipeDifficultyLevel":"Difficulty",
+        "IsChefChoice":"NO"
+    },
+    {
+        "RecipeId":"3",
+        "ServingCapacity":"2",
+        "RecipeName":"CHEESE, SPINACH & MUSHROOM STUFFED CHIENSE",
+        "RecipeDesc":"Amp up this dinner party classic by stuffing three types of cheese, spinach and mushroom into the chicken",
+        "UserImage":"food1",
+        "Ingredients":"Amp up this dinner party classic by stuffing three types of cheese, spinach and mushroom into the chicken",
+        "UserFullName":"@Love_Foodie",
+        "RecipeDifficultyLevel":"Difficulty",
+        "IsChefChoice":"YES"
+    },
+    {
+        "RecipeId":"4",
+        "ServingCapacity":"8",
+        "RecipeName":"FETA AND PEACH COUSCOUS ",
+        "RecipeDesc":"Grab just four ingredients to make this easy, light lunch and enjoy a taste of summer. The combination of peaches, feta..",
+        "UserImage":"burger",
+        "Ingredients":"Amp up this dinner party classic by stuffing three types of cheese, spinach and mushroom into the chicken",
+        "UserFullName":"@Banger_This",
+        "RecipeDifficultyLevel":"Medium",
+        "IsChefChoice":"NO"
+    }
+]

@@ -1,0 +1,51 @@
+.menu-title {
+    margin-top: 80px;
+    color: rgb(19, 19, 19);
+}
+
+.menu-title div:nth-child(1) {
+    font-size: 64px;
+}
+
+.menu-title div:nth-child(2) {
+    font-size: 72px;
+    line-height: 2rem;
+}
+
+.menu-main {
+    width: 100%;
+}
+
+.menu-inner-main {
+    padding-left: 4vw;
+    padding-right: 4vw;
+    margin: 80px;
+}
+.menuitem {
+    border-right: 1px solid grey;
+    color:#636161;
+}
+.menuitem-heading {
+    font-size: 64px;
+}
+.menuitem-name,
+.menuitem-desc,
+.menuitem-price {
+    padding-left:30px;
+}
+
+.menuitem-name {
+    margin-top:10px;
+    margin-bottom: 8px;
+    padding-right:10px;
+    font-size: 20px;
+}
+.menuitem-desc {
+    margin-bottom: 30px;
+    padding-right:15px;
+}
+
+.menuitem-price span {
+    border: 2px solid #ffdac9;
+    padding:10px;
+}

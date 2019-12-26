@@ -1,0 +1,91 @@
+.row {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 0 4px;
+    margin-top: 8px;
+}
+
+/* Create four equal columns that sits next to each other */
+
+.column {
+    flex: 1 1;
+    /* max-width: 25%;
+    padding: 0 4px; */
+}
+
+.community-title {
+    margin-top: 80px;
+    color: rgb(19, 19, 19);
+}
+
+.community-title div:nth-child(1) {
+    font-size: 64px;
+}
+
+.community-title div:nth-child(2) {
+    font-size: 72px;
+    line-height: 2rem;
+}
+
+.community-main {
+    width: 100%;
+}
+
+.community-inner-main {
+    padding-left: 4vw;
+    padding-right: 4vw;
+    margin: 80px;
+}
+
+.community-pic {
+    height: 212px;
+    width: 212px;
+}
+
+.insta-pic {
+    position: absolute;
+    left: 77%;
+    top: 0px;
+    z-index: 1;
+}
+
+.card {
+    position: relative;
+}
+
+.community-container {
+    padding: 15px;
+}
+
+.details-bg {
+    position: absolute;
+    left: 36%;
+    top: 150px;
+    z-index: -1;
+}
+
+.content-container {
+    padding: 40px;
+    font-size: 18px;
+}
+
+.inner-card {
+    width: 47%;
+    float: left;
+    min-height: 250px;
+    margin: 5px;
+    background-color: white;
+}
+
+.btn-style {
+    background-color: #ffdac9;
+    border: none;
+    font-family: din_condensedbold;
+    color: #2b2b2b;
+    padding: 13px 14px;
+    text-align: center;
+    display: inline-block;
+    font-size: 20px;
+    margin: 4px 38px;
+    cursor: pointer;
+}
